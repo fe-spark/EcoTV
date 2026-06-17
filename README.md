@@ -7,6 +7,16 @@
 [![FVM](https://img.shields.io/badge/FVM-Enabled-orange?logo=google&logoColor=white)](https://fvm.app)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 界面预览
+
+| 源 | 推荐 | 分类 | 搜索 |
+|:---:|:---:|:---:|:---:|
+| ![源](preview/源.png) | ![推荐](preview/推荐.png) | ![搜索](preview/搜索.png)| ![分类](preview/分类.png) | 
+
+| 播放 | 筛选 | 我的 |
+|:---:|:---:|:---:|
+| ![我的](preview/我的.png) | ![筛选](preview/筛选.png)  | ![播放](preview/播放.png) | 
+
 ## 功能特性
 
 - Flutter 跨平台：支持 Android 和 iOS
