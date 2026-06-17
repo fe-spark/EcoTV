@@ -20,7 +20,7 @@
 ## 功能特性
 
 - Flutter 跨平台：支持 Android 和 iOS
-- 自定义数据源接入：可配合 [EcoHub](https://github.com/fe-spark/EcoHub) 使用
+- 自定义数据源接入：配合 [EcoHub](https://github.com/fe-spark/EcoHub) 使用
 - 播放器手势支持：亮度、音量、快进快退、倍速等
 - 投屏支持：iOS AirPlay / Android DLNA
 
